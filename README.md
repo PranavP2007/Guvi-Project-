@@ -1,5 +1,5 @@
 # Multi User Banking System
-Bank Management System in Java Swing
+Bank Management System in Java
 
 
 #### Tool and Technologies Used:
