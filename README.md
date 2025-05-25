@@ -1,4 +1,4 @@
-# Bank-Management-System
+# Multi User Banking System
 Bank Management System in Java Swing
 
 
