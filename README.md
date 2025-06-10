@@ -2,12 +2,60 @@
 Bank Management System in Java
 
 
-#### Tool and Technologies Used:
-* Java
-* Java Swing
-* MySQL
-* Eclipse
-* iText Java Library (PDF Creation)
+# Features
+## Client
+* View account details (name, account number, balance, type, opening date).
+
+* Perform cardless cash withdrawals using OTP and PIN.
+
+* Transfer money to other accounts.
+
+* View and download e-statements.
+
+* Change login password.
+
+## Manager
+* Create new client accounts.
+
+* Block/unblock accounts and credit/debit cards.
+
+* Close accounts.
+
+* Search account/client details.
+
+* Manage credit/debit cards.
+
+* Update client info (phone, email, address).
+
+## Accountant
+* Deposit/withdraw cash.
+
+* Process cheque deposits.
+
+* Issue e-statements.
+
+## Project Structure
+* GUI: Handles all UI screens (sign-in, menus, forms).
+
+* Database Logic: Manages MySQL interactions (user authentication, transactions).
+
+* Role Classes: Implement Client, Manager, Accountant functionalities.
+
+* Assets: Includes images (e.g., logo for sign-in screen).
+
+* Entry Point: Launches the application.
+
+## Technologies
+* Java 8+ (Swing, AWT).
+
+* MySQL (data storage).
+
+* MySQL Connector/J (JDBC driver).
+
+
+## Database
+* Tables for users, clients, accounts, and transactions. Sample data included for testing.
+
 
 <br/>
 
